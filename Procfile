@@ -1,0 +1,1 @@
+worker: python messenger_bot.py
